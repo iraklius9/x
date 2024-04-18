@@ -1,0 +1,15 @@
+header{
+    background-color: green;
+    height: 200px;
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 2em;
+}
+footer{
+ 
+        background-color: green;
+        height: 100px;
+    text-align: center;
+}
